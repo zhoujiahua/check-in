@@ -1,0 +1,13 @@
+{
+  "name": "check-in",
+  "version": "1.0.0",
+  "description": "check in",
+  "main": "app.js",
+  "repository": "git@github.com:zhoujiahua/check-in.git",
+  "author": "jerry",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
