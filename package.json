@@ -5,9 +5,17 @@
   "main": "app.js",
   "repository": "git@github.com:zhoujiahua/check-in.git",
   "author": "jerry",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "license": "MIT",
   "dependencies": {
+    "app-root-path": "^3.0.0",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "validator": "^13.5.2"
   }
 }
