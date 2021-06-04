@@ -1,4 +1,5 @@
 const work = {
+    "isVaccines": "是",
     "isCold": "否",
     "seeDoctor": "",
     "businessTravel": "否",
@@ -25,6 +26,7 @@ const work = {
     "workType": "Office值班/协作(工作)",
     "feiyanIsTouch": "否",
     "isPassGd": "否",
+    "vaccinesInfo": "还差一针",
     "help": "无",
     "coldReason": "",
     "coldDate": "",
@@ -36,6 +38,7 @@ const work = {
 }
 
 const weekend = {
+    "isVaccines": "是",
     "isCold": "否",
     "seeDoctor": "",
     "businessTravel": "否",
@@ -62,6 +65,7 @@ const weekend = {
     "workType": "",
     "feiyanIsTouch": "否",
     "isPassGd": "否",
+    "vaccinesInfo": "还差一针",
     "help": "无",
     "coldReason": "",
     "coldDate": "",
@@ -73,6 +77,7 @@ const weekend = {
 }
 
 const vacation = {
+    "isVaccines": "是",
     "isCold": "否",
     "seeDoctor": "",
     "businessTravel": "否",
@@ -99,6 +104,7 @@ const vacation = {
     "workType": "",
     "feiyanIsTouch": "否",
     "isPassGd": "否",
+    "vaccinesInfo": "还差一针",
     "help": "无",
     "coldReason": "",
     "coldDate": "",
@@ -110,6 +116,7 @@ const vacation = {
 }
 
 const other = {
+    "isVaccines": "是",
     "isCold": "否",
     "seeDoctor": "",
     "businessTravel": "否",
@@ -136,6 +143,7 @@ const other = {
     "workType": "",
     "feiyanIsTouch": "否",
     "isPassGd": "否",
+    "vaccinesInfo": "还差一针",
     "help": "无",
     "coldReason": "",
     "coldDate": "",
